@@ -1,0 +1,14 @@
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\bin\Debug\kolko_krzyzyk_p4_zaliczenie.exe.config
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\bin\Debug\kolko_krzyzyk_p4_zaliczenie.exe
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\bin\Debug\kolko_krzyzyk_p4_zaliczenie.pdb
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.Form1.resources
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.Properties.Resources.resources
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.csproj.GenerateResource.cache
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.exe
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.pdb
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\bin\Debug\System.Data.SqlClient.dll
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\bin\Debug\System.Data.SqlClient.xml
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.csproj.CopyComplete
+C:\Users\48502\source\repos\kolko_krzyzyk_p4_zaliczenie\kolko_krzyzyk_p4_zaliczenie\obj\Debug\kolko_krzyzyk_p4_zaliczenie.Wyniki.resources
